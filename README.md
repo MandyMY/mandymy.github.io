@@ -1,2 +1,2 @@
 # mandymy.github.io
-Mandy's Blog
+This project contains the output HTML files Pelican generates.
